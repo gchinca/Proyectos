@@ -10,8 +10,13 @@ Fuente de información: http://insideairbnb.com/get-the-data/
 
 ## OBJETIVOS DEL PROYECTO
 ¿Cuál es el tipo de alojamiento con mejor precio promedio en la ciudad de Lisboa?
+
 ¿Cuales son los precios promedio de alojamiento en la ciudad de Lisboa?
+
 Determinar la cantidad de alojamientos por rangos de precio: bajo, medio, alto y muy alto
+
 Top 5 de zonas con mejor precio promedio
+
 Tipo de alojamiento mas ofertado en Lisboa
+
 Precio promedio en los alojamientos con hasta 2 habitaciones
