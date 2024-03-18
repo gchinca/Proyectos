@@ -1,4 +1,4 @@
-## ANÁLISIS DE DATOS DEL MERCADO AIRBNB EN LISBOA 🔎
+## ANÁLISIS DE DATOS DEL MERCADO AIRBNB EN LISBOA PARA EL AÑO 2022 🔎
 
 El proyecto tiene como objetivo realizar un análisis de datos sobre el mercado de Airbnb en la ciudad de Lisboa, se analiza la distribución geográfica de los alojamientos, sus características y si existen diferencias significativas en los precios según la ubicación y el tipo de propiedad.
 
